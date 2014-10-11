@@ -1,0 +1,15 @@
+{
+    "name": "kakatool/codeigniter",
+    "version": "1.0",
+    "description": "kakatool codeigniter for webapp",
+    "type": "library",
+    "keywords": [
+        "kakatool",
+        "codeigniter"
+    ],
+    "license": "GPL v2",
+    "homepage": "http://www.kakatool.com",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
